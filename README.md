@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### **Explanation of the UDP Server Code**  
 
 This code implements a **UDP (User Datagram Protocol) server** that listens for incoming messages from clients, processes them, and sends responses back.  
@@ -392,3 +393,6 @@ scanner.close();
 🔹 **Improved error handling** (e.g., handling packet loss, retries).  
 🔹 **GUI or Web Interface** for a better user experience.  
 
+=======
+# UDPmulticlient
+>>>>>>> 7e0f9029e3deb9156ce5937ebab0f62418f32bf9
